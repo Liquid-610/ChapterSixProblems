@@ -19,7 +19,7 @@ namespace InchesToFeet
         static void Main(string[] args)
         {
             int inches = 67;
-            //int feet = inches % 12;
+           
             InchesToFeet(inches);
             
             

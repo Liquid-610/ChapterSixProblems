@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToFeet", "InchesToFee
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InchesToYards", "InchesToYards\InchesToYards.csproj", "{19DBF80E-43D6-4E05-8785-A165E95BF794}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monogram", "Monogram\Monogram.csproj", "{DCEC7A48-7A71-4710-95CB-5AED9AD301BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exponent", "Exponent\Exponent.csproj", "{8B568570-B313-41C7-A07B-9AC1BA84BAEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -31,6 +35,14 @@ Global
 		{19DBF80E-43D6-4E05-8785-A165E95BF794}.Debug|x86.Build.0 = Debug|x86
 		{19DBF80E-43D6-4E05-8785-A165E95BF794}.Release|x86.ActiveCfg = Release|x86
 		{19DBF80E-43D6-4E05-8785-A165E95BF794}.Release|x86.Build.0 = Release|x86
+		{DCEC7A48-7A71-4710-95CB-5AED9AD301BD}.Debug|x86.ActiveCfg = Debug|x86
+		{DCEC7A48-7A71-4710-95CB-5AED9AD301BD}.Debug|x86.Build.0 = Debug|x86
+		{DCEC7A48-7A71-4710-95CB-5AED9AD301BD}.Release|x86.ActiveCfg = Release|x86
+		{DCEC7A48-7A71-4710-95CB-5AED9AD301BD}.Release|x86.Build.0 = Release|x86
+		{8B568570-B313-41C7-A07B-9AC1BA84BAEC}.Debug|x86.ActiveCfg = Debug|x86
+		{8B568570-B313-41C7-A07B-9AC1BA84BAEC}.Debug|x86.Build.0 = Debug|x86
+		{8B568570-B313-41C7-A07B-9AC1BA84BAEC}.Release|x86.ActiveCfg = Release|x86
+		{8B568570-B313-41C7-A07B-9AC1BA84BAEC}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

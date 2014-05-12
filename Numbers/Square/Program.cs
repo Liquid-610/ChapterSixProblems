@@ -7,9 +7,9 @@ namespace Square
 {
     class Program
     {
-        public static int exponent(int a)
+        public static int exponent(ref int a)
         {
-            Console.WriteLine(a*a);
+            a = a*a;
             return a;
         }
 
@@ -22,14 +22,14 @@ namespace Square
 
             int n = Convert.ToInt32(input);
 
-            exponent(n);
+            exponent(ref n);
             
 
-            int squ = exponent(n);
+            int squ = exponent(ref n);
 
            
 
-            Console.WriteLine("{0} = squared", squ);
+            Console.WriteLine("{0} = Squared", squ);
         }
     }
 }

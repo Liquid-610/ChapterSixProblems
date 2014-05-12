@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square\Square.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse3", "Reverse3\Reverse3.csproj", "{DA880370-4B0F-4B33-8E18-15A7002C691D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse4", "Reverse4\Reverse4.csproj", "{FBE0812F-22AD-44F1-AA3F-07E1C28FA6E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -55,6 +57,10 @@ Global
 		{DA880370-4B0F-4B33-8E18-15A7002C691D}.Debug|x86.Build.0 = Debug|x86
 		{DA880370-4B0F-4B33-8E18-15A7002C691D}.Release|x86.ActiveCfg = Release|x86
 		{DA880370-4B0F-4B33-8E18-15A7002C691D}.Release|x86.Build.0 = Release|x86
+		{FBE0812F-22AD-44F1-AA3F-07E1C28FA6E3}.Debug|x86.ActiveCfg = Debug|x86
+		{FBE0812F-22AD-44F1-AA3F-07E1C28FA6E3}.Debug|x86.Build.0 = Debug|x86
+		{FBE0812F-22AD-44F1-AA3F-07E1C28FA6E3}.Release|x86.ActiveCfg = Release|x86
+		{FBE0812F-22AD-44F1-AA3F-07E1C28FA6E3}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
